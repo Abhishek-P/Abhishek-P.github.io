@@ -4,3 +4,13 @@
 
 layout: home
 ---
+
+Hi, I am Abhishek Purushothama.
+This is my personal site, if you came here to know more about me, navigate to the other pages where I have noted down the information. 
+You can find links to my social media accounts at the bottom if you want to contact me.
+
+I am still setting up the website so bear please with me 😄. 
+
+If you came here by accident, click [here](https://zoo.sandiegozoo.org/cams/penguin-cam) and watch the delightful penguins in San Diego Zoo before you head back. 
+
+Have a great day!
