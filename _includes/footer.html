@@ -14,11 +14,16 @@
       <div class="footer-col footer-col-3">
         {%- include social.html -%}
       </div>
+
       {%- if site.description -%}
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
       </div>
       {%- endif -%}
+
+      <div class="footer-col footer-col-3">
+        <p><preformatted>Last Updated on </preformatted><b>{{- site.last_updated | escape -}}</b></p>
+      </div>
     </div>
 
   </div>
