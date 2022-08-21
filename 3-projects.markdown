@@ -16,4 +16,4 @@ title: Projects
 
 
 ## Publications
-* ### [Classification-based Access Control Methodology in RDF](https://preview.tinyurl.com/y2ambhag) by Abhishek, P., Jayateerth S. Deshpande, and Kavi Mahesh in TERI ICDL 2016
+* #### [Classification-based Access Control Methodology in RDF](https://preview.tinyurl.com/y2ambhag) by Abhishek, P., Jayateerth S. Deshpande, and Kavi Mahesh in TERI ICDL 2016
