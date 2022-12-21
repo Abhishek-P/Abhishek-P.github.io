@@ -2,26 +2,20 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        {%- include social.html -%}
+    <div class="footer-col-wrapper">  
+      <div class="footer-col footer-col-8">
+        <div>
+          {%- include social.html -%}
+        </div>
       </div>
 
       {%- if site.description -%}
-      <div class="footer-col footer-col-3">
+      <div class="footer-col footer-col-2">
         <p>{{- site.description | escape -}}</p>
       </div>
       {%- endif -%}
 
-      <div class="footer-col footer-col-3">
+      <div class="footer-col footer-col-2">
         <p><preformatted>Last Updated on </preformatted><b>{{- site.last_updated | escape -}}</b></p>
       </div>
     </div>

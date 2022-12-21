@@ -5,11 +5,11 @@
 layout: home
 ---
 
-Hi, I am Abhishek Purushothama.
-This is my personal site, if you came here to know more about me, navigate to the other pages where I have noted down the information. 
-You can find links to my social media accounts at the bottom if you want to contact me.
+I am a 2nd year master's student in computer science at CU Boulder, working on natural language processing with [Dr. Katharina Kann](https://kelina.github.io) and the [NALA Group](https://nala-cub.github.io/). 
 
-To see the code that runs this site you can visit [the repo](https://github.com/Abhishek-P/Abhishek-P.github.io).
+You can check my [CV](assets/pdf/CV_Updated_2022_12_15.pdf) or pages where I have noted down some descriptive information.
+
+If you want to contact me, and it is for something official and administrative, my email address is at the bottom. Otherwise, Linkedin DMs are simple and easy to use and are something I check often.
 
 If you came here by accident, click [here](https://zoo.sandiegozoo.org/cams/penguin-cam) and watch the delightful penguins in San Diego Zoo before you head back. 
 
