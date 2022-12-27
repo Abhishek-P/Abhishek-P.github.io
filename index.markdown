@@ -7,7 +7,7 @@ layout: home
 
 I am a 2nd year master's student in computer science at CU Boulder, working on natural language processing with [Dr. Katharina Kann](https://kelina.github.io) and the [NALA Group](https://nala-cub.github.io/). 
 
-You can check my [CV](assets/pdf/CV_Updated_2022_12_15.pdf) or pages where I have noted down some descriptive information.
+You can check my [CV](assets/pdf/Abhishek_CV_Uploaded_12-27-22.pdf) or pages where I have noted down some descriptive information.
 
 If you want to contact me, and it is for something official and administrative, my email address is at the bottom. Otherwise, Linkedin DMs are simple and easy to use and are something I check often.
 
