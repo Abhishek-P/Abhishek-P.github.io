@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "An in-progress one pager."
 ---
 <kbd>"We are like dwarfs sitting on the shoulders of giants. We see more, and things that are more distant, than they did, not because our sight is superior or because we are taller than they, but because they raise us up, and by their great stature add to ours." </kbd> attributed to John of Salisbury, learn more [here](https://www.phrases.org.uk/meanings/268025.html).
 
