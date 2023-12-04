@@ -4,7 +4,7 @@ title: "NLP 'highlights'"
 ---
 ## A timeline of my NLP highlights
 * 2023
-    * Working on using improving transformers for Morphological Inflection
+    * Working on improving transformers for morphological inflection
     * Graduating from MSCS at CU Boulder with research focus on NLP
 * 2022
     * Worked on continued pretraining for cross-lingual transfer
