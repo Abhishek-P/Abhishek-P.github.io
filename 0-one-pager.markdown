@@ -48,5 +48,10 @@ In San Francisco, [City Lights Booksellers & Publishers](https://goo.gl/maps/Yxi
 
 In Seattle, [Mercer Street Books](https://goo.gl/maps/HfRd9nqfos5ND6DQ8).
 
+`We now have additional recommendation of another city bookstore from the staff.`
+
+In Washington D.C., [Capitol Hill Books](https://maps.app.goo.gl/JK5Qdc1UgqXDC3p8A). 
+* Recommended [Powell's](https://www.travelportland.com/attractions/powells/) in Portland.
+
 #### Template
 This site uses jekyll and tries to imitate a single page CV style similar to [this](https://jonbarron.info/).
