@@ -15,7 +15,7 @@ My email is [abhishek DOT purushothama AT colorado DOT edu](mailto:abhshek.purus
 
 
 # Professional details
-Depending on your intention, you can check my CV [here](assets/pdf/Abhishek_CV_Uploaded_12-27-22.pdf), or my Linkedin profile [here](https://www.linkedin.com/in/abhishekpurushothama/) for details of my professional background or the summary below.
+Depending on your intention, you can check my CV [here](assets/pdf/Abhishek_CV_Uploaded_12-27-22.pdf) for my academic CV, or my Linkedin profile [here](https://www.linkedin.com/in/abhishekpurushothama/) for details of my professional background.
 
 <!-- ### Teaching Experience
 I have had the pleasure and privilege of being a teaching assistant for [Principles of Programming Languages](https://home.cs.colorado.edu/~srirams/teaching/ppl_class_notes.html) at CU Boulder since Spring 2022 with Prof. Sankaranarayanan, Prof. Kaki and Prof. Chang. -->
@@ -48,7 +48,7 @@ In San Francisco, [City Lights Booksellers & Publishers](https://goo.gl/maps/Yxi
 
 In Seattle, [Mercer Street Books](https://goo.gl/maps/HfRd9nqfos5ND6DQ8).
 
-`We now have additional recommendation of another city bookstore from the staff.`
+`We now have additional recommendations of another city bookstore from the staff.`
 
 In Washington DC, [Capitol Hill Books](https://maps.app.goo.gl/JK5Qdc1UgqXDC3p8A). 
 * Recommended [Powell's](https://www.travelportland.com/attractions/powells/) in Portland.
