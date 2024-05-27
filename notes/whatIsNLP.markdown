@@ -8,7 +8,7 @@ Since I work in computer science, although NLP is a field primarily at the inter
 I will base this largely on Prof. Bo Waggoner's discussion of [What is Computer Science?](https://bowaggoner.com/whatiscomputerscience.html), so you should first check it out.
 
 ## Short Answer
-Since "computer science is the study of algorithms: step-by-step procedures for solving problems or accomplishing tasks.", NLP would simply be the computer science of natural language. To be complete "NLP is the study of step-by-step procedures for accomplishing tasks and solving problems involving natural language".
+Since "computer science is the study of algorithms: step-by-step procedures for solving problems or accomplishing tasks.", NLP would simply be the computer science of natural language. To be complete "NLP is the study of step-by-step procedures for accomplishing tasks or solving problems involving natural language".
 
 Does this mean NLP is just about writing programs that work with natural language? No! It is more because of the all the things that are encompassed in both computer science and in linguistics, and infinite combination there in.
 
